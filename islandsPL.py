@@ -4,7 +4,7 @@ from random import randint
 """
 Created on Mon Jan 28 19:48:39 2019
 
-@author: Nikodem
+@author: Nikodem Staszek
 """
 class Liczba_wysp:
     
